@@ -11,7 +11,7 @@ class Program
         conta.Depositar(300);
         conta.MostrarInfo();
 
-        Console.WriteLine("\nsaque: R$ 700,00");
+        Console.WriteLine("\n saque: R$ 700,00");
         conta.Sacar(500);
 
         conta.Sacar(200);

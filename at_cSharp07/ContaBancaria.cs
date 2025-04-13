@@ -37,7 +37,7 @@ public class ContaBancaria
         }
         else
         {
-            Console.WriteLine("O valor do saque tem qu ser positivo!");
+            Console.WriteLine("O valor do saque tem qu ser  positivo!");
         }
     }
 
